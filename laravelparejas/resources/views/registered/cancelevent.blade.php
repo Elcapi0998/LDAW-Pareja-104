@@ -7,9 +7,10 @@
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                </div>
-                <div class="panel-body">
-                    
+                    <H1>Se cancelo con exito<H1>
+                            <button type="button" class="btn btn-primary">
+                                    <a href="{{url('/registeredevents')}}" style="color:#ffffff"> Regresar </a>
+                                    </button>
                 </div>
             </div>
         </div>

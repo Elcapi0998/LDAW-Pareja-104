@@ -6,10 +6,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">
+                <div class="panel-heading">Evento tal
                 </div>
                 <div class="panel-body">
-                    
+                    <button type=button class="btn btn-primary"> <a href=""> Inscribirme </a></button>
                 </div>
             </div>
         </div>
